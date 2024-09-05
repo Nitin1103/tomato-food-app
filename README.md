@@ -14,8 +14,6 @@ A full-stack restaurant food delivery app built using the MERN stack. The app al
 - **Database**: MongoDB
 - **Payment Integration**: Stripe Payment Gateway
 
-## Getting Started
-
 ### Prerequisites
 - Node.js
 - MongoDB
